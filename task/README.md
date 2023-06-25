@@ -1,3 +1,5 @@
+<b>In the index.js file, import the CSS for each component separately instead of importing them together. This will ensure that each component's CSS is imported individually.</b>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
